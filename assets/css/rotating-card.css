@@ -84,7 +84,7 @@
 .card-container,
 .front,
 .back {
-  width: 100%;
+  width: 95%;
   height: 380px;
   border-radius: 4px;
 }
@@ -119,7 +119,7 @@
   min-height: 110px;
 }
 .card .back .content .main {
-  height: 215px;
+  height: 240px;
 }
 .card .heading {
   z-index: 9;
@@ -155,12 +155,13 @@
 }
 .card .header {
   padding: 15px 20px;
-  height: 90px;
+  height: 100px;
 }
 .card .back .header {
-  padding: 15px 20px;
-  height: 40px;
+  /* padding: 15px 15px; */
+  height: 20px;
 }
+
 .card .motto {
   border-bottom: 1px solid #eeeeee;
   color: #999999;
