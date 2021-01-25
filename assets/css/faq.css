@@ -30,10 +30,10 @@
   }
    
   .section__headline {
-    font-family: "Varela Round", sans-serif;
-    font-size: 62px;
+    font-family: "Times New Roman", Times, serif;
     font-weight: light;
-    color: #ff5555;
+    font-size: 9vw;
+    color: white;
     text-align: center;
   }
    
