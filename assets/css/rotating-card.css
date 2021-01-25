@@ -349,3 +349,8 @@ pre.prettyprint {
   display: inline-block;
   width: 30rem;
 }
+
+.individual-card{
+    display:flex;
+    justify-content: center;
+}

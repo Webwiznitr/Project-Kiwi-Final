@@ -1,4 +1,5 @@
-$('body').delegate('.FAQ', 'click', function(){
-    $('.FAQ').removeClass('FAQ--active');
-    $(this).addClass('FAQ--active');
-  });
+$("body").delegate(".FAQ", "click", function () {
+  console.log("Hi!");
+  $(".FAQ").removeClass("FAQ--active");
+  $(this).addClass("FAQ--active");
+});
