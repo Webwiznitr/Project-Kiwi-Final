@@ -135,7 +135,7 @@ body{
 .btn-group{
     margin-top: 10%;
 }
-.btn-group button {
+.btn-group button{
     background-color: #ba00df52; /* Purple background */
     color: white; /* White text */
     padding: 10px 5px; /* Some padding */
@@ -149,6 +149,13 @@ body{
     font-family: 'Titillium Web', sans-serif;
     font-size: 150%;
     border-right:1px solid #fff;
+}
+
+.btn-group button a{
+    font-style: none;
+    color: white;
+    padding: 10px 55px;
+    border: none;
 }
   
 /* Clear floats (clearfix hack) */
@@ -180,6 +187,11 @@ background-color: #de59e2ad;
         font-size: 90%;
         border-right:1px solid #fff;
 
+    }
+    .btn-group button a{
+        color: white;
+        padding: 5px 5px;
+        font-size: 90%;
     }
 }
 /*--------------------devfolio button-------------------*/
