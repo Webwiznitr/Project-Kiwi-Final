@@ -4,6 +4,15 @@
   outline: 0 !important;
 }
 /* entire container, keeps perspective */
+
+.tracks-header {
+  text-align: center;
+  margin: auto;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 9vw;
+  color: white;
+}
+
 .card-container {
   -webkit-perspective: 800px;
   -moz-perspective: 800px;
